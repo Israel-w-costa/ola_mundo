@@ -1,5 +1,6 @@
 import styles from "./Banner.module.css"
 import circuloColorido from 'assets/circulo_colorido.png'
+import fotoIsrael from 'assets/foto_israel.png'
 
 export default function Banner () {
     return (
@@ -20,6 +21,8 @@ sasasasasssasasasa
                 />
                 <img
                 className={styles.minhaFoto}
+                src={fotoIsrael}
+                alt="foto de perfil"
                 />
             </div>
         </div>
