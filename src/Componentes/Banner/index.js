@@ -10,7 +10,7 @@ export default function Banner () {
                     Olá, Mundo!
                 </h1>
                 <p className={styles.paragrafo}>
-sasasasasssasasasa
+                    Boas vindas eu meu espaço pessoal. Eu sou Israel Costa. Estudande de Front-end pela Alura. Aqui compartilho varios conhecimentos. espero que aprenda algo novo :)
                 </p>
             </div>
             <div className={styles.imagens}>

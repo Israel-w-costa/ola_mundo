@@ -9,6 +9,10 @@ export default function Post({ post }) {
                 alt="imagem de capa do posto"
             />
 
+            <h2 className={styles.titulo}>{post.titulo}</h2>
+
+            <button className={styles.botaoLer}>Ler</button>
+
         </div>
     )
 
